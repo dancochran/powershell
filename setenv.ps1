@@ -1,0 +1,10 @@
+$Env:TestVariableName = 'MyValue'
+$Env:JAVA_HOME = 'c:\pkg\java\jdk1.8.0_221'
+$Env:ANT_HOME = 'c:\pkg\java\apache-ant-1.10.0'
+$Env:GOPATH = 'e:\prog\go'
+$Env:GOROOT = 'c:\pkg\go\'
+$Env:GRADLE_HOME = 'c:\pkg\gradle-5.2'
+$Env:GROOVY_HOME = 'c:\pkg\java\groovy-2.4.8'
+$Env:M2_HOME = 'c:\pkg\java\apache-maven-3.5.3'
+$Env:M2_REPO = 'e:\lib\m2repo'
+$Env:PATH = "C:\Windows\System32\WindowsPowerShell\v1.0;c:\bin;C:\pkg\git\bin;$Env:JAVA_HOME\bin;$Env:JAVA_HOME\jre\bin;c:\pkg\Vagrant\bin;$Env:GOROOT\bin;$Env:GRADLE_HOME\bin;$Env:ANT_HOME\bin;$Env:M2_HOME\bin;$Env:GROOVY_HOME\bin;C:\pkg\vscode\bin;C:\pkg\nodejs"
